@@ -1,0 +1,23 @@
+{
+ "remotes": [
+  {
+   "name": "conan-center",
+   "url": "https://conan.bintray.com",
+   "verify_ssl": true
+  },
+  {
+   "name": "conan-transit",
+   "url": "https://conan-transit.bintray.com",
+   "verify_ssl": true
+  },
+  {
+   "name": "ci",
+   "url": "https://artifactory.redlion.net/artifactory/api/conan/conan-local",
+   "verify_ssl": true
+  }
+ ],
+ "references": {
+ },
+ "package_references": {
+ }
+}

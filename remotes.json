@@ -1,0 +1,9 @@
+{
+ "remotes": [
+  {
+   "name": "rlc",
+   "url": "https://artifactory.redlion.net/artifactory/api/conan/conan-rlc-virtual",
+   "verify_ssl": true
+  }
+ ]
+}
